@@ -13,5 +13,5 @@ This hw is about 2D image warping and creaeing mosaic images. Please find the `R
 
 ## PS 3
 ## Decsription
-This hw is about pathern detection using `bag of words` and filters, 
-also with a deep convolutional neural network to detect simlair sceen.
+This hw is about pathern detection using "bag of words" and filters, 
+also with a deep convolutional neural network to detect simlair sceen. Please find the `Report.pdf` in PS2 for more detail.
